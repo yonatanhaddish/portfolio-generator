@@ -24,3 +24,5 @@ There is no test for this application.
 
 ## Questions
 If you have any questions about this project, please contact me directly at yonihailsh@gmail.com
+
+<img width="960" alt="portfolio-generator" src="https://user-images.githubusercontent.com/78513952/134361720-aaf7f46e-4d68-45d0-83f6-1ab33f01fb19.png">
